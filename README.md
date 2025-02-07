@@ -1,6 +1,6 @@
 # About
 ## Created by Bartosz Sorek
-***"Pacmonogus"*** is Windows console game created in pure C++ with standard library. It's the project created when learning basics of C++. Game is based on Pacman.
+***"Pacmogus"*** is Windows console game created in pure C++ with standard library. It's the project created when learning basics of C++. Game is based on Pacman.
 ### Rules
 - Collect all gems to unlock door, enter the door to win
 - Avoid enemies (x markers)
