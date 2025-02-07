@@ -17,3 +17,12 @@
 - WASD to move
 - Level Editor controls are described in Level Editor itself.
 ### Media
+- **Gameplay**
+  
+![Gameplay](Preview/PacmogusGameplay.gif)
+- **Level editor**
+  
+![Level Editor](Preview/Editor.gif)
+- **Size change detection**
+  
+![Size change detection](Preview/SizeChange.gif)
